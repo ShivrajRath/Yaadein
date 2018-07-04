@@ -1,0 +1,37 @@
+{
+  "name": "yaadein",
+  "version": "1.0.0",
+  "description": "This is a HTML5 based web app for TV to view old Hindi shows",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivrajRath/yaadein.git"
+  },
+  "keywords": [
+    "FireTV",
+    "HTML5",
+    "Amazon",
+    "WASK",
+    "Hindi",
+    "Serials",
+    "Shows",
+    "Youtube"
+  ],
+  "author": "@ShivrajRath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivrajRath/yaadein/issues"
+  },
+  "homepage": "https://github.com/ShivrajRath/yaadein#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
