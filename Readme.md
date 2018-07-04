@@ -12,6 +12,7 @@ More on fire tv app development can be found [https://developer.amazon.com/publi
 * Load more than 50 episodes
 * Sort the channels based on usage
 * Service worker for faster page load
+* Add favicon
 * E2E Travis CI to tell if any show is not loading
 
 ### Privacy Policy
