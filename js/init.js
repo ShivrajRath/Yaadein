@@ -77,10 +77,6 @@
       }, {
         id: "PLqtVCj5iilH6yI2Lfb8S0D2ilPqMDE_kg",
         title: "Mullah Nasruddin"
-      }, {
-        id: "PL6Rtnh6YJK7Y3MNMPgRhp70sZNqF9DcOl",
-        title: "Office Office",
-        "reversePlaylist": true
       },
       {
         id: "PLqtVCj5iilH7vhn3syf1_l4xyY7-hnnbr",
@@ -154,7 +150,11 @@
     //     id: "PL058KYRnhLpcREVEhJmVzAcsbRmZ5wUc0",
     //     title: "Yeh Jo Hai Zindagi",
     //     reversePlaylist: true
-    //   }
+    //   }, {
+    //   id: "PL6Rtnh6YJK7Y3MNMPgRhp70sZNqF9DcOl",
+    //   title: "Office Office",
+    //   "reversePlaylist": true
+    // }
     // ];
 
     // Get cached channels for last access times
