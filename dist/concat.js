@@ -8057,7 +8057,7 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 
   var cacheManager = exports.cacheManager;
 
-  var devKey = 'AIzaSyBwGt74xF1lwsuzP1iueYr4SJ_QukuSlqI';
+  var devKey = 'AIzaSyBxmOqTjbZDQ1s4oPv15_ShOpuaBGv73fk';
 
   function getChannels() {
     var channels = [{
