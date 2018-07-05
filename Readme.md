@@ -15,7 +15,6 @@ More on fire tv app development can be found [https://developer.amazon.com/publi
 
 ### Shows to be added (in no order)
 * Sarabhai vs Sarabhai
-* Office office
 * Ramayan
 * Mahabharat
 * Hum paanch
@@ -26,6 +25,8 @@ More on fire tv app development can be found [https://developer.amazon.com/publi
 * Captain Vyom
 * Shanti
 * Kichdi
+* Mungerilal
+* Surabhi
 
 ### Privacy Policy
 
